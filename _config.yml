@@ -41,6 +41,8 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/softleitner
+  - title: coffee
+    url: https://www.buymeacoffee.com/softleitner
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
